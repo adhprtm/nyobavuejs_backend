@@ -1,0 +1,19 @@
+{
+    "name": "nyobanodejs",
+    "version": "1.0.0",
+    "description": "Mencoba Node JS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Adhitya Hendri P",
+    "license": "MIT",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "install": "^0.13.0",
+        "random-word": "^2.0.0",
+        "random-words": "^1.2.0",
+        "randomword": "^0.1.3"
+    }
+}
